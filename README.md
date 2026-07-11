@@ -8,13 +8,6 @@
 
 A modern web application that detects whether an uploaded image is **Real** or **AI-Generated** using a **ResNet50 Deep Learning Model**. The project combines a **React + Vite frontend** with a **Flask backend** to deliver fast and reliable predictions through an intuitive user interface.
 
----
-
-![Home Page](images/home.png)
-
-![Prediction Result](images/prediction.png)
-
-</div>
 
 ---
 
