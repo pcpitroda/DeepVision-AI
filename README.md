@@ -264,33 +264,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-> Replace the image below with your project screenshot.
-
-```text
-images/home.png
-```
-
-```markdown
-![Home Page](images/home.png)
-```
-
----
-
-## Prediction Result
-
-> Replace the image below with your prediction screenshot.
-
-```text
-images/prediction.png
-```
-
-```markdown
-![Prediction](images/prediction.png)
-```
 
 ---
 
